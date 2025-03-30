@@ -1,5 +1,3 @@
-package l1q4;
-
 import java.util.Date;
 
 public class Transaction {
